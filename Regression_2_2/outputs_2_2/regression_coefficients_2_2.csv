@@ -1,0 +1,10 @@
+Feature,Coefficient
+team_fifa_rank,-0.014184702999314515
+opp_fifa_rank,0.0130446127739089
+team_avg_goals_scored,-0.07384024857738226
+opp_avg_goals_conceded,0.1473926589785349
+team_top_confed,0.04049141958321205
+opp_top_confed,0.17686434441687057
+team_wc_appearances,0.03551784692768321
+opp_wc_appearances,-0.032312507965978045
+Intercept,1.2839060654447156
